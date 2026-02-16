@@ -4,8 +4,8 @@ Date: 2026-02-16
 
 This is a Bi-Circular Restricted Four Body Problem (BCRFBP) simulation tool with two scripts to find Week Stability Boundary (WSB) transfers with ballistic captures to Moon orbits. An example for a transfer and capture are shown in the following:
 
-<img src="https://github.com/MarvinAhl/wsb-tool/blob/main/plots/transfer.png" alt="A transfer found with the WSB Tool" width="200"/>
-<img src="https://github.com/MarvinAhl/wsb-tool/blob/main/plots/capture.png" alt="A ballistic capture found with the WSB Tool" width="200"/>
+<img src="https://github.com/MarvinAhl/wsb-tool/blob/main/plots/transfer.png" alt="A transfer found with the WSB Tool" width="400"/>
+<img src="https://github.com/MarvinAhl/wsb-tool/blob/main/plots/capture.png" alt="A ballistic capture found with the WSB Tool" width="300"/>
 
 The BCRFBP equations are taken from Simó et al. [1]. The WSB captures are found using a method similar to Belbruno [2] taken from Luo and Topputo [3]. Additional scripts are available for matching BCRFBP sun angles with real dates and performing a preliminary ground coverage analysis using JPL's SPICE Toolkit [4]. Add SPICE kernels described in the metakernel inside the kernel folder to execute spice related scripts.
 
