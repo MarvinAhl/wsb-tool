@@ -2,7 +2,7 @@
 Author: Marvin Ahlborn</br>
 Date: 2026-02-16
 
-This is a Bi-Circular Restricted Four Body Problem (BCRFBP) simulation tool with two scripts to find Week Stability Boundary (WSB) transfers with ballistic captures to Moon orbits. An example for a transfer and capture are shown in the following:
+This is a Bi-Circular Restricted Four Body Problem (BCRFBP) simulation tool with two scripts to find Week Stability Boundary (WSB) transfers with ballistic captures to Moon orbits. An example of a transfer and a capture are shown in the following:
 
 <img src="https://github.com/MarvinAhl/wsb-tool/blob/main/plots/transfer.png" alt="A transfer found with the WSB Tool" width="400"/>
 <img src="https://github.com/MarvinAhl/wsb-tool/blob/main/plots/capture.png" alt="A ballistic capture found with the WSB Tool" width="300"/>
