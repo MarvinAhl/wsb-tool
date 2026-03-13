@@ -13,3 +13,5 @@ The BCRFBP equations are taken from Simó et al. [1]. The WSB captures are found
 [2] E. Belbruno, "Lunar capture orbits, a method of constructing earth moon trajectories and the lunar GAS mission," in 19th International Electric Propulsion Conference, Colorado Springs, CO, USA: American Institute of Aeronautics and Astronautics, May 1987, doi: 10.2514/6.1987-1054.</br>
 [3] Z.-F. Luo and F. Topputo, "Mars orbit insertion via ballistic capture and aerobraking," Astrodyn, vol. 5, no. 2, pp. 167-181, 2021, doi: 10.1007/s42064-020-0095-4.</br>
 [4] C. Acton, N. Bachman, B. Semenov, and E. Wright, "A look towards the future in the handling of space science mission geometry," Planetary and Space Science, vol. 150, pp. 9-12, 2018, doi: 10.1016/j.pss.2017.02.013.
+
+This tool was created for a project in the "Applied Space Mission Analysis and Design" class under Prof. Michèle Lavagna at the Politecnico di Milano.
